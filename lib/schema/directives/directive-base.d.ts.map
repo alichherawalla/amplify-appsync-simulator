@@ -1,0 +1,1 @@
+{"version":3,"file":"directive-base.d.ts","sourceRoot":"","sources":["../../../src/schema/directives/directive-base.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,sBAAsB,EAAE,MAAM,eAAe,CAAC;AACvD,OAAO,EAAE,uBAAuB,EAAE,MAAM,OAAO,CAAC;AAEhD,8BAAsB,6BAA8B,SAAQ,sBAAsB;IAChF,IAAI,EAAE,MAAM,CAAC;IACb,MAAM,CAAC,eAAe,EAAE,MAAM,CAAC;IAC/B,MAAM,CAAC,gBAAgB,EAAE,uBAAuB,CAAC;CAClD"}

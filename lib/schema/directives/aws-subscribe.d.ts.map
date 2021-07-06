@@ -1,0 +1,1 @@
+{"version":3,"file":"aws-subscribe.d.ts","sourceRoot":"","sources":["../../../src/schema/directives/aws-subscribe.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,6BAA6B,EAAE,MAAM,kBAAkB,CAAC;AAEjE,qBAAa,YAAa,SAAQ,6BAA6B;IAC7D,MAAM,CAAC,eAAe,EAAE,MAAM,CAAwE;IACtG,IAAI,EAAE,MAAM,CAAmB;IAE/B,oBAAoB,CAAC,KAAK,KAAA;CAc3B"}
